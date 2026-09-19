@@ -12,6 +12,8 @@ The complete proof implementation is kept in a private development repository wh
 - authorship and provenance records;
 - timestamped commitments to private development snapshots.
 
+The current snapshot commitment records 75 Lean files, 43 Markdown documents, 8 Python audit scripts, and 12 test artifacts in the development tree. These counts describe engineering scale; they do not establish theorem correctness or award eligibility.
+
 The repository intentionally omits the private proof core, detailed proof architecture, incomplete-proof diagnostics, and implementation details that would make the unfinished construction directly reusable.
 
 ## Current status

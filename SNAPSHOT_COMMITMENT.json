@@ -5,7 +5,14 @@
   "public_milestone": "statement-and-interface record",
   "development_snapshot": {
     "commit": "d3d99ae70e668226ab467b937c57320888117825",
-    "archive_sha256": "7ffe5a60aca16499bdeea6d61b575202942e3ec7e09fbe9a70718a953d5ade05"
+    "archive_sha256": "7ffe5a60aca16499bdeea6d61b575202942e3ec7e09fbe9a70718a953d5ade05",
+    "tracked_inventory": {
+      "lean_files": 75,
+      "markdown_files": 43,
+      "python_files": 8,
+      "test_files": 12,
+      "git_commits": 95
+    }
   },
   "environment": {
     "lean_toolchain": "leanprover/lean4:v4.33.1",
