@@ -1,0 +1,20 @@
+{
+  "project": "Erdos 610 Lean formalization",
+  "status": "incomplete",
+  "recorded_at": "2026-09-19",
+  "public_milestone": "statement-and-interface record",
+  "development_snapshot": {
+    "commit": "d3d99ae70e668226ab467b937c57320888117825",
+    "archive_sha256": "7ffe5a60aca16499bdeea6d61b575202942e3ec7e09fbe9a70718a953d5ade05"
+  },
+  "environment": {
+    "lean_toolchain": "leanprover/lean4:v4.33.1",
+    "mathlib_revision": "0df444a360eaa60ab8c11dca51a86af692955474"
+  },
+  "claims": {
+    "final_theorem_closed": false,
+    "award_claim": false,
+    "official_verification": false
+  },
+  "disclosure": "The proof core remains private during active development. This commitment is evidence of a snapshot timestamp, not a proof of theorem correctness."
+}
